@@ -7,7 +7,7 @@ Osaka University
 
 This project is the implementation of "Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation (ECCV 2024)".
 
-[Paper]() | [Data](https://drive.google.com/drive/folders/1RY1nZpi99fujUGfXC4JuNKslzSZvvF8I?usp=sharing) 
+[Paper](https://arxiv.org/abs/2407.08149) | [Data](https://drive.google.com/drive/folders/1RY1nZpi99fujUGfXC4JuNKslzSZvvF8I?usp=sharing) 
 
 ![teaser image](/imgs/teaser.png)
 ## Requirements
@@ -24,10 +24,6 @@ This project is the implementation of "Deep Polarization Cues for Single-shot Sh
 * pillow
 
 ## How to use
-
-
-
-
 
 ### Train
 - Download the [dataset](https://drive.google.com/drive/folders/1RY1nZpi99fujUGfXC4JuNKslzSZvvF8I?usp=sharing). 
